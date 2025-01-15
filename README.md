@@ -1,4 +1,4 @@
-1. Create environment: python3 -m venv venv source venv/bin/activate 
+1. Create environment: python3 -m venv venv; source venv/bin/activate 
 
 2. Install apps: pip install -r requirements.txt 
 
